@@ -4,6 +4,8 @@
 
 > 一个励志成为全栈工程师的前端开发菜鸟
 
+<p align="left"><img width="450px" height="90px" src="./front.png" /></p>
+
 ## 操作系统和工具
 [![MacOS](https://img.shields.io/badge/macOS-Monterey-000000?style=flat-square&logo=apple)](https://www.apple.com/macos/monterey/)
 
