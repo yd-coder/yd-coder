@@ -7,10 +7,11 @@
 <p align="left"><img width="450px" height="90px" src="./front.png" /></p>
 
 ## 操作系统和工具
-[![windows](https://img.shields.io/badge/-Windows10-336791?style=flat-square&logo=windows&logoColor=fff)]
+![windows](https://img.shields.io/badge/-Windows10-007ACC?style=flat-square&logo=windows&logoColor=fff)
 [![MacOS](https://img.shields.io/badge/macOS-Monterey-000000?style=flat-square&logo=apple)](https://www.apple.com/macos/monterey/)
 
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
+![webStorm](https://img.shields.io/badge/-webStorm-007ACC?style=flat-square&logo=webstorm&logoColor=fff)
 
 ### **技术栈:**
 
