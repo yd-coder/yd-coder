@@ -7,7 +7,8 @@
 <p align="left"><img width="450px" height="90px" src="./front.png" /></p>
 
 ## 操作系统和工具
-[![MacOS](https://img.shields.io/badge/macOS-Monterey-000000?style=flat-square&logo=apple)](https://www.apple.com/macos/monterey/)
+[![windows](https://img.shields.io/badge/-Windows10-336791?style=flat-square&logo=windows&logoColor=fff)
+// [![MacOS](https://img.shields.io/badge/macOS-Monterey-000000?style=flat-square&logo=apple)](https://www.apple.com/macos/monterey/)
 
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
 
@@ -17,7 +18,7 @@
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
 
 [![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
-[![Next](https://img.shields.io/badge/-Next-000000?style=flat-square&logo=next.js&logoColor=ffffff)](https://nextjs.org/)
+[![Nuxt](https://img.shields.io/badge/-Nuxt-000000?style=flat-square&logo=nuxt.js&logoColor=ffffff)](https://nuxtjs.org/)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
 
 
