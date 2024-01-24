@@ -2,7 +2,7 @@
 
 # Hi,I'm 屿东
 
-> 一个励志成为全栈工程师的前端开发菜鸟
+> 一个励志成为全栈工程师的前端开发
 
 <p align="left"><img width="450px" height="90px" src="./front.png" /></p>
 
